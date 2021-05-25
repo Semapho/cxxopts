@@ -91,7 +91,7 @@ parse(int argc, const char* argv[])
 
     if (result.count("b"))
     {
-      std::cout << "Saw option ‘b’" << std::endl;
+      std::cout << "Saw option ‘b’." << std::endl;
     }
 
     if (result.count("char"))
